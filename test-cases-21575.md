@@ -7,3 +7,5 @@ Verify user can create lease
 Verify validation on empty fields
 ## Test Case 5
 Verify lease cannot be created without tenant details
+## Test Case 6
+Verify lease end date must be greater than start date
